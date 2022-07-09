@@ -72,5 +72,8 @@ Test your complete `PyChain` ledger and user interface by running your Streamlit
 
 4. Verify the block contents and hashes in the Streamlit dropdown menu. Take a screenshot of the Streamlit application page, which should detail a blockchain that consists of multiple blocks. Include the screenshot in the `README.md` file for your GitHub repository.
 
-5. Test the blockchain validation process by using the web interface. Take a screenshot of the Streamlit application page, which should indicate the validity of the blockchain. Include the screenshot in the `README.md` file for your homework repository.
+5. Test the blockchain validation process by using the web interface. 
+
+![image](https://user-images.githubusercontent.com/98990090/178119083-e6e61563-c9da-4d0d-891e-e6efb6f89685.png)
+
 
